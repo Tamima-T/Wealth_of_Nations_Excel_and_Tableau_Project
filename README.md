@@ -21,7 +21,7 @@ The client expressed interest in focusing solely on the top 20 highest ranking c
 Feel free to explore the project and its visuals!
 
 ![Project Visualization](https://github.com/Tamima-T/Wealth_of_Nations_Excel_and_Tableau_Project/blob/main/Screenshot%202024-04-07%20at%2017.58.19.png?raw=true)
-*Visualisation from the project dashboard.*
+*Visualisations from the project dashboard.*
 
 View my Dashboard [here](https://public.tableau.com/app/profile/tamima.tarofdar/viz/WealthofNations-TT/Dashboard1?publish=yes)
 
